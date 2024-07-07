@@ -14,55 +14,77 @@
 
 ### Topics
 
-#### Unit 1: Overview of Global Environmental Crisis
-
-- Overview of Biogeochemical Cycles and Their Importance
-- Climate Change: Causes, Impacts, and Mitigation Strategies
-- International Conventions and Treaties on Climate Change: COP and Paris Agreement
-- Ozone Depletion: Causes, Effects, and Montreal Protocol
-- Population Growth: Implications for Resource Management and Sustainability
-- Energy Crisis: Transitioning to Renewable Energy Sources
-- Water Crisis: Causes, Impacts, and Sustainable Management Practices
-- Groundwater Hydrogeology: Understanding Aquifer Dynamics and Management
-- Surface Water Resource Development: Challenges and Sustainable Solutions
-- Overview of Global Environmental Regulations and Their Implementation
-
-#### Unit 2: Ecology, Biodiversity Loss, and Pollution
-
-- Biodiversity Loss: Causes, Impacts, and Conservation Strategies
-- International Conventions on Biodiversity Conservation: CBD and Nagoya Protocol
-- Deforestation: Drivers, Consequences, and Reforestation Efforts
-- Land Degradation: Soil Erosion, Desertification, and Land Reclamation
-- Food Crisis: Food Insecurity, Agricultural Practices, and Sustainable Agriculture
-- Water Pollution: Sources, Effects, and Remediation Measures
-- International Conventions on Water Pollution Control: Examples and Implementation
-- Sewage Treatment: Technologies and Case Studies
-- Air Pollution: Types, Sources, and Control Measures
-- Other Pollution Types: Thermal, Noise, and Their Impacts
-
-#### Unit 3: Waste Management and Sustainable Practices
-
-- Solid Waste Management: Challenges and Best Practices
-- Municipal Solid Waste Management: Collection, Segregation, and Disposal Methods
-- Medical Waste Management: Risks, Regulations, and Safe Handling Practices
-- E-Waste Management: Recycling Technologies and Environmental Impacts
-- Nuclear Waste Management: Storage, Disposal, and Safety Measures
-- Household Hazardous Waste: Identification and Proper Disposal Methods
-- Environmental Management Systems: ISO 14001 and Implementation Strategies
-- Green Business Practices: Corporate Sustainability Initiatives
-- Eco-labeling: Consumer Awareness and Product Certification
-- Environmental Impact Assessment: Process, Methodologies, and Case Studies
-
-#### Global Burning Issues
-
-- Plastic Pollution: Global Scale, Impacts, and Reduction Strategies
-- Climate Refugees: Causes, Impacts, and Policy Responses
-- Ocean Acidification: Causes, Effects, and Conservation Efforts
-- Coral Reef Degradation: Threats and Conservation Measures
-- Deforestation in the Amazon: Implications for Biodiversity and Climate
-- Wildlife Trafficking: Illegal Trade, Impacts, and Anti-Poaching Efforts
-- Illegal Logging: Environmental and Socioeconomic Consequences
-- Air Quality Index: Monitoring, Health Impacts, and Air Quality Management
-- Global Water Scarcity: Causes, Impacts, and Sustainable Water Management
-- Carbon Footprint Reduction: Strategies for Individuals and Industries
-
+| Topic #ID | Topic  | Alloted to |
+|:---------:|:-------|------------|
+| ST#01 | Impacts of Climate Change on Coastal Ecosystems (CO1) | |
+| ST#02 | The Role of Forests in Carbon Sequestration (CO1) | |
+| ST#03 | Global Warming: Evidence and Predictions (CO1) | |
+| ST#04 | International Climate Agreements: Successes and Failures (CO2) | |
+| ST#05 | Understanding Biogeochemical Cycles: The Nitrogen Cycle (CO1)	 | |
+| ST#06 | Ozone Layer Depletion: Causes and Solutions (CO1) | |
+| ST#07 | The Montreal Protocol: Addressing Ozone Layer Protection (CO2) | |
+| ST#08 | Energy Crisis: Renewable vs. Non-renewable Sources (CO2) | |
+| ST#09 | Population Growth and Its Environmental Impact (CO2) | |
+| ST#10 | Strategies for Sustainable Energy Consumption (CO2)	 | |
+| ST#11 | Groundwater Depletion: Causes and Consequences (CO1) | |
+| ST#12 | Surface Water Resource Management: Case Studies (CO2) | |
+| ST#13 | Biogeochemical Cycles: The Carbon Cycle (CO1) | |
+| ST#14 | Effects of Overpopulation on Natural Resources (CO2) | |
+| ST#15 | Hydrogeology and Groundwater Recharge Methods (CO1)	 | |
+| ST#16 | Ozone Hole Formation: Scientific Understanding  (CO1) | |
+| ST#17 | Global Efforts to Combat Climate Change (CO2) | |
+| ST#18 | International Energy Policies and Their Impact (CO2) | |
+| ST#19 | Global Water Crisis: Challenges and Solutions (CO2) | |
+| ST#20 | Water Conservation Techniques in Agriculture (CO2)	 | |
+| ST#21 | Climate Change Adaptation and Mitigation Strategies (CO2) | |
+| ST#22 | Biogeochemical Cycles: The Phosphorus Cycle (CO1) | |
+| ST#23 | Challenges in Groundwater Management (CO1) | |
+| ST#24 | Surface Water Development Projects: Benefits and Drawbacks (CO2) | |
+| ST#25 | Biodiversity Loss: Causes and Implications (CO1)	 | |
+| ST#26 | International Biodiversity Conventions: Overview (CO2) | |
+| ST#27 | Deforestation: Causes, Effects, and Solutions (CO1) | | 
+| ST#28 | Land Degradation: Mechanisms and Prevention (CO2) | | 
+| ST#29 | Food Crisis: Sustainable Agriculture Solutions (CO2) | |
+| ST#30 | Water Pollution: Sources and Mitigation (CO3)	 | |
+| ST#31 | Industrial Effluent Treatment: Technologies and Methods (CO3) | |
+| ST#32 | Air Pollution: Health Impacts and Control Measures (CO3) | |
+| ST#33 | Sewage Treatment: Advanced Techniques (CO3) | |
+| ST#34 | Thermal Pollution: Sources and Effects (CO3) | | 
+| ST#35 | Noise Pollution: Impacts and Management (CO3)	| |
+| ST#36 | Pollution Control Regulations: International Perspectives (CO2) | |
+| ST#37 | Domestic Sewage Treatment: Challenges and Innovations (CO3) | |
+| ST#38 | Impact of Air Pollution on Urban Health (CO2) | |
+| ST#39 | Thermal Pollution: Impact on Aquatic Ecosystems (CO2) | |
+| ST#40 | Conventions on Air Pollution Control (CO2)	 | |
+| ST#41 | Land Pollution: Sources and Remediation (CO3) | |
+| ST#42 | Noise Pollution: Regulatory Framework (CO2) | |
+| ST#43 | Deforestation and Its Impact on Biodiversity (CO1) | |
+| ST#44 | Water Quality Standards and Regulations (CO2) | | 
+| ST#45 | Sustainable Practices in Industrial Waste Management (CO3)	| |
+| ST#46 | Food Security and Global Policies (CO2) | |
+| ST#47 | Conservation Strategies for Endangered Species (CO1) | |
+| ST#48 | The Role of Wetlands in Water Purification (CO1) | |
+| ST#49 | Municipal Solid Waste Management: Best Practices (CO3) | |
+| ST#50 | E-Waste: Challenges and Recycling Solutions (CO3)	 | | 
+| ST#51 | Nuclear Waste Management: Safety and Regulations (CO3) | |
+| ST#52 | Household Hazardous Waste: Safe Disposal Methods (CO3) | |
+| ST#53 | Environmental Accounting: Principles and Practices (CO3) | |
+| ST#54 | Green Business: Strategies and Examples (CO2) | |
+| ST#55 | Eco-Labelling: Benefits and Challenges (CO2)	 | |
+| ST#56 | Environmental Impact Assessment: Case Studies (CO2) | |
+| ST#57 | Legal Frameworks for Environmental Protection (CO2) | |
+| ST#58 | Sustainable Development Goals: Implementation and Challenges (CO2) | |
+| ST#59 | Medical Waste Management: Techniques and Policies (CO3) | |
+| ST#60 | The Role of Environmental Audits in Compliance (CO3)	 | |
+| ST#61 | Innovative Approaches to Solid Waste Recycling (CO3) | |
+| ST#62 | Sustainable Practices in Household Waste Management (CO3) |  |
+| ST#63 | The Future of Eco-Labelling in Consumer Products (CO2) | |
+| ST#64 | Challenges in Nuclear Waste Disposal (CO3) | |
+| ST#65 | Municipal Waste Management: Technological Innovations (CO3) | |
+| ST#66 | Policies and Strategies for Green Business Development (CO2)	 | |
+| ST#67 | Implementing Environmental Management Systems (CO3) | |
+| ST#68 | Constitutional Provisions for Environmental Protection (CO2) | |
+| ST#69 | The Role of NGOs in Environmental Management (CO2) | |
+| ST#70 | Green Business Certification: Process and Benefits (CO2) | |
+| ST#71 | Strategies for Reducing Household Hazardous Waste (CO3) | |
+| ST#72 | Evaluating the Effectiveness of Environmental Impact Assessments (CO2)	 | |
