@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/Batch-22CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-EVS-blue) <br/>
 ![](https://img.shields.io/badge/Credit-PF-orange) <br/> ![](https://img.shields.io/badge/Students-72-gold)
 
-#### Course Instructor:  Ramaguru R, Assistant Professor (Senior Grade), TIFAC-CORE in Cyber Security.
+#### Course Mentor:  Ramaguru R, Assistant Professor (Senior Grade), TIFAC-CORE in Cyber Security.
 
 ### :books: Course Outcome
 
@@ -16,18 +16,18 @@
 
 | Topic #ID | Topic  | Alloted to | Presentation Date |
 |:---------:|:-------|------------|:------------------:|
-| [ST#01]() | Impacts of Climate Change on Coastal Ecosystems (CO1) | Adarsh R K | ![](https://img.shields.io/badge/-26_July-blue) |
-| [ST#02]() | The Role of Forests in Carbon Sequestration (CO1) | Adithya N S | ![](https://img.shields.io/badge/-26_July-blue) |
-| [ST#03]() | Global Warming: Evidence and Predictions (CO1) | Agilprasanna P | ![](https://img.shields.io/badge/-26_July-blue) |
-| [ST#04]() | International Climate Agreements: Successes and Failures (CO2) | Aishwarya S | ![](https://img.shields.io/badge/-26_July-blue) |
-| [ST#05]() | Understanding Biogeochemical Cycles: The Nitrogen Cycle (CO1)	 | Amal Ritessh A P | ![](https://img.shields.io/badge/-26_July-blue) |
-| [ST#06]() | Ozone Layer Depletion: Causes and Solutions (CO1) |  Ananth R | ![](https://img.shields.io/badge/-26_July-blue) |
-| [ST#07]() | The Montreal Protocol: Addressing Ozone Layer Protection (CO2) | Anaswara Suresh M K | ![](https://img.shields.io/badge/-2_August-blue) |
-| [ST#08]() | Energy Crisis: Renewable vs. Non-renewable Sources (CO2) | Arul Sujith S | ![](https://img.shields.io/badge/-2_August-blue) |
-| [ST#09]() | Population Growth and Its Environmental Impact (CO2) | Asrita NL | ![](https://img.shields.io/badge/-2_August-blue) |
-| [ST#10]() | Strategies for Sustainable Energy Consumption (CO2)	 | Avi Nair | ![](https://img.shields.io/badge/-2_August-blue) |
-| [ST#11]() | Groundwater Depletion: Causes and Consequences (CO1) | B M Sai Sathvik | ![](https://img.shields.io/badge/-2_August-blue) |
-| [ST#12]() | Surface Water Resource Management: Case Studies (CO2) | Boddu Prem Kumar | ![](https://img.shields.io/badge/-2_August-blue) |
+| [ST#01]() | Impacts of Climate Change on Coastal Ecosystems (CO1) | Adarsh R K | ![](https://img.shields.io/badge/Planned-26_July-blue) |
+| [ST#02]() | The Role of Forests in Carbon Sequestration (CO1) | Adithya N S | ![](https://img.shields.io/badge/Completed-26_July-brightgreen) |
+| [ST#03]() | Global Warming: Evidence and Predictions (CO1) | Agilprasanna P | ![](https://img.shields.io/badge/Planned-26_July-blue) |
+| [ST#04]() | International Climate Agreements: Successes and Failures (CO2) | Aishwarya S | ![](https://img.shields.io/badge/Completed-26_July-brightgreen) |
+| [ST#05]() | Understanding Biogeochemical Cycles: The Nitrogen Cycle (CO1)	 | Amal Ritessh A P | ![](https://img.shields.io/badge/Completed-26_July-brightgreen) |
+| [ST#06]() | Ozone Layer Depletion: Causes and Solutions (CO1) |  Ananth R | ![](https://img.shields.io/badge/Completed-26_July-brightgreen) |
+| [ST#07]() | The Montreal Protocol: Addressing Ozone Layer Protection (CO2) | Anaswara Suresh M K | ![](https://img.shields.io/badge/Planned-2_August-blue) |
+| [ST#08]() | Energy Crisis: Renewable vs. Non-renewable Sources (CO2) | Arul Sujith S | ![](https://img.shields.io/badge/Planned-2_August-blue) |
+| [ST#09]() | Population Growth and Its Environmental Impact (CO2) | Asrita NL | ![](https://img.shields.io/badge/Completed-2_August-brightgreen) |
+| [ST#10]() | Strategies for Sustainable Energy Consumption (CO2)	 | Avi Nair | ![](https://img.shields.io/badge/Completed-2_August-brightgreen) |
+| [ST#11]() | Groundwater Depletion: Causes and Consequences (CO1) | B M Sai Sathvik | ![](https://img.shields.io/badge/Planned-2_August-blue) |
+| [ST#12]() | Surface Water Resource Management: Case Studies (CO2) | Boddu Prem Kumar | ![](https://img.shields.io/badge/Completed-2_August-brightgreen) |
 | [ST#13]() | Biogeochemical Cycles: The Carbon Cycle (CO1) | Burla Rushyendra Reddy | ![](https://img.shields.io/badge/-9_August-blue) |
 | [ST#14]() | Effects of Overpopulation on Natural Resources (CO2) | C S Amritha | ![](https://img.shields.io/badge/-9_August-blue) |
 | [ST#15]() | Hydrogeology and Groundwater Recharge Methods (CO1)	 | Chitla Vyshali | ![](https://img.shields.io/badge/-9_August-blue) |
