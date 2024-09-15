@@ -22,23 +22,23 @@
 | [ST#04](docs/ST04.pdf) | International Climate Agreements: Successes and Failures (CO2) | Aishwarya S | ![](https://img.shields.io/badge/Completed-26_July-brightgreen) <br/> [![](https://img.shields.io/badge/-Report-blue)](docs/ST04.pdf) <br/> |
 | [ST#05](docs/ST05.pdf) | Understanding Biogeochemical Cycles: The Nitrogen Cycle (CO1)	 | Amal Ritessh A P | ![](https://img.shields.io/badge/Completed-26_July-brightgreen) <br/> [![](https://img.shields.io/badge/-Report-blue)](docs/ST05.pdf) <br/> |
 | [ST#06](docs/ST06.pdf) | Ozone Layer Depletion: Causes and Solutions (CO1) |  Ananth R | ![](https://img.shields.io/badge/Completed-26_July-brightgreen) <br/> [![](https://img.shields.io/badge/-Report-blue)](docs/ST06.pdf) <br/> |
-| [ST#07](docs/ST07.pdf) | The Montreal Protocol: Addressing Ozone Layer Protection (CO2) | Anaswara Suresh M K | ![](https://img.shields.io/badge/Planned-2_August-blue) |
+| [ST#07](docs/ST07.pdf) | The Montreal Protocol: Addressing Ozone Layer Protection (CO2) | Anaswara Suresh M K |  ![](https://img.shields.io/badge/Completed-13_September-brightgreen) <br/> [![](https://img.shields.io/badge/-Report-blue)](docs/ST07.pdf) <br/> |
 | [ST#08](docs/ST08.pdf) | Energy Crisis: Renewable vs. Non-renewable Sources (CO2) | Arul Sujith S | ![](https://img.shields.io/badge/Planned-2_August-blue) |
 | [ST#09](docs/ST09.pdf) | Population Growth and Its Environmental Impact (CO2) | Asrita NL | ![](https://img.shields.io/badge/Completed-2_August-brightgreen) <br/> [![](https://img.shields.io/badge/-Report-blue)](docs/ST09.pdf) <br/> |
 | [ST#10](docs/ST10.pdf) | Strategies for Sustainable Energy Consumption (CO2)	 | Avi Nair | ![](https://img.shields.io/badge/Completed-2_August-brightgreen) <br/> [![](https://img.shields.io/badge/-Report-blue)](docs/ST10.pdf) <br/> |
 | [ST#11](docs/ST11.pdf) | Groundwater Depletion: Causes and Consequences (CO1) | B M Sai Sathvik | ![](https://img.shields.io/badge/Planned-2_August-blue) |
 | [ST#12](docs/ST12.pdf) | Surface Water Resource Management: Case Studies (CO2) | Boddu Prem Kumar | ![](https://img.shields.io/badge/Completed-2_August-brightgreen) <br/> [![](https://img.shields.io/badge/-Report-blue)](docs/ST12.pdf) <br/> |
-| [ST#13](docs/ST13.pdf) | Biogeochemical Cycles: The Carbon Cycle (CO1) | Burla Rushyendra Reddy | ![](https://img.shields.io/badge/Planned-9_August-blue) |
+| [ST#13](docs/ST13.pdf) | Biogeochemical Cycles: The Carbon Cycle (CO1) | Burla Rushyendra Reddy |  ![](https://img.shields.io/badge/Completed-13_September-brightgreen) <br/> [![](https://img.shields.io/badge/-Report-blue)](docs/ST13.pdf) <br/> |
 | [ST#14](docs/ST14.pdf) | Effects of Overpopulation on Natural Resources (CO2) | C S Amritha | ![](https://img.shields.io/badge/Planned-9_August-blue) |
-| [ST#15](docs/ST15.pdf) | Hydrogeology and Groundwater Recharge Methods (CO1)	 | Chitla Vyshali | ![](https://img.shields.io/badge/Planned-9_August-blue) |
+| [ST#15](docs/ST15.pdf) | Hydrogeology and Groundwater Recharge Methods (CO1)	 | Chitla Vyshali |  ![](https://img.shields.io/badge/Completed-13_September-brightgreen) <br/> [![](https://img.shields.io/badge/-Report-blue)](docs/ST15.pdf) <br/> |
 | [ST#16](docs/ST16.pdf) | Ozone Hole Formation: Scientific Understanding  (CO1) | Aadhithya Sivakumar | ![](https://img.shields.io/badge/Planned-9_August-blue) |
 | [ST#17](docs/ST17.pdf) | Global Efforts to Combat Climate Change (CO2) | Charan K | ![](https://img.shields.io/badge/Planned-9_August-blue) |
-| [ST#18](docs/ST18.pdf) | International Energy Policies and Their Impact (CO2) | Chinni Nagasree Hansica | ![](https://img.shields.io/badge/Planned-9_August-blue) |
+| [ST#18](docs/ST18.pdf) | International Energy Policies and Their Impact (CO2) | Chinni Nagasree Hansica |  ![](https://img.shields.io/badge/Completed-13_September-brightgreen) <br/> [![](https://img.shields.io/badge/-Report-blue)](docs/ST18.pdf) <br/> |
 | [ST#19](docs/ST19.pdf) | Global Water Crisis: Challenges and Solutions (CO2) | Dharshika S | ![](https://img.shields.io/badge/Planned-16_August-blue) |
 | [ST#20](docs/ST20.pdf) | Water Conservation Techniques in Agriculture (CO2) |  Deepak Kumar S | ![](https://img.shields.io/badge/Planned-16_August-blue) |
 | [ST#21](docs/ST21.pdf) | Climate Change Adaptation and Mitigation Strategies (CO2) | G Vettrivel | ![](https://img.shields.io/badge/Planned-16_August-blue) |
 | [ST#22](docs/ST22.pdf) | Biogeochemical Cycles: The Phosphorus Cycle (CO1) | Gunateet Dev | ![](https://img.shields.io/badge/Planned-16_August-blue) |
-| [ST#23](docs/ST23.pdf) | Challenges in Groundwater Management (CO1) | G Hamsini | ![](https://img.shields.io/badge/Planned-16_August-blue) |
+| [ST#23](docs/ST23.pdf) | Challenges in Groundwater Management (CO1) | G Hamsini |  ![](https://img.shields.io/badge/Completed-13_September-brightgreen) <br/> [![](https://img.shields.io/badge/-Report-blue)](docs/ST23.pdf) <br/> |
 | [ST#24](docs/ST24.pdf) | Surface Water Development Projects: Benefits and Drawbacks (CO2) | Harshith Gangisetty | ![](https://img.shields.io/badge/Planned-16_August-blue) |
 | [ST#25](docs/ST25.pdf) | Biodiversity Loss: Causes and Implications (CO1) | Hemanth Kumaar J P | ![](https://img.shields.io/badge/Planned-23_August-blue) |
 | [ST#26](docs/ST26.pdf) | International Biodiversity Conventions: Overview (CO2) | Hemadhri P C | ![](https://img.shields.io/badge/Planned-23_August-blue) |
